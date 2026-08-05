@@ -1,16 +1,16 @@
 # 🐍 Python Learning Journey
 
-Hi! I'm Suhaib. 👋
+Hi, I'm Suhaib! 👋
 
-Welcome to my Python Learning Journey! This repository is where I share my daily progress as I learn Python and work toward becoming a Python Full Stack Developer.
+Welcome to my Python Learning Journey.
 
-Here, you'll find the programs, assignments, coding challenges, and mini projects I complete during my Python Full Stack Development course. I'm using this repository to track my progress, practice consistently, and improve my coding skills every day.
+This repository is where I document my progress as I learn Python from the basics and build projects step by step. My goal is to improve my programming skills through daily practice and eventually become a Python Full Stack Developer.
 
-## 🎯 My Goal
+## 🎯 Goal
 
-My goal is to become a skilled Python Full Stack Developer by building a strong foundation in Python, solving real-world problems, and creating useful projects.
+To become a Python Full Stack Developer by building a strong foundation in Python and creating practical projects.
 
-## 📚 What I'm Learning
+## 📚 Topics I'm Learning
 
 - Python Basics
 - Variables & Data Types
@@ -31,7 +31,10 @@ My goal is to become a skilled Python Full Stack Developer by building a strong 
 ### Day 1
 - Student Information System
 
-More projects and daily updates will be added as I continue learning.
+### Day 2
+- Student Result Management System
+
+More projects will be added as I continue learning.
 
 ## 🛠️ Tools
 
@@ -40,4 +43,4 @@ More projects and daily updates will be added as I continue learning.
 - Git
 - GitHub
 
-Thanks for visiting my repository! Feel free to explore my work and follow my progress. 🚀
+Thank you for visiting my repository! Feel free to explore my projects and follow my learning journey. 🚀
