@@ -2,15 +2,15 @@
 
 Hi, I'm Suhaib! 👋
 
-Welcome to my Python Learning Journey!
+Welcome to my Python Learning Journey.
 
-This repository is where I keep track of my progress as I learn Python, practice coding, and build small projects along the way. I'm using this repository to improve my programming skills step by step and work towards becoming a Python Full Stack Developer.
+This repository is where I keep my Python practice, assignments, and small projects as I learn and improve step by step. I'm using it to build a strong foundation in programming and work towards becoming a Python Full Stack Developer.
 
-## 🎯 Goal
+## 🎯 My Goal
 
-My goal is to build a strong foundation in Python, improve my problem-solving skills, and gradually move towards Python Full Stack Development.
+My goal is to become a Python Full Stack Developer by strengthening my Python fundamentals, improving my problem-solving skills, and building practical projects along the way.
 
-## 📚 Topics I'm Learning
+## 📚 What I'm Learning
 
 - Python Basics
 - Variables & Data Types
@@ -29,25 +29,29 @@ My goal is to build a strong foundation in Python, improve my problem-solving sk
 
 ## 📁 Projects
 
-### Day 1
-- **Student Information System**
-  - Takes student details and marks as input
-  - Calculates total and average marks
+### Day 1 — Student Information System
+A simple program that takes student details and marks as input and calculates the total and average marks.
 
-### Day 2
-- **Student Result Management System**
-  - Works with student marks and result calculations
+### Day 2 — Student Result Management System
+A basic student result management program that works with marks and calculates student results.
 
-### Day 3
-- **Text Analyzer**
-  - Counts characters, letters, digits, and spaces
-  - Counts vowels and consonants
-  - Counts uppercase and lowercase letters
-  - Reverses the entered text
+### Day 3 — Text Analyzer
+A program that analyzes text by counting characters, letters, digits, spaces, vowels, consonants, uppercase and lowercase letters, and also reverses the entered text.
+
+### Day 4 — Number Analyzer
+A program that analyzes a number and provides information such as:
+
+- Number of digits
+- Sum of digits
+- Product of digits
+- Even and odd digit count
+- Largest and smallest digit
+- Reversed number
+- Palindrome check
 
 More projects and practice programs will be added as I continue learning.
 
-## 🛠️ Tools
+## 🛠️ Tools I Use
 
 - Python
 - VS Code
@@ -56,6 +60,8 @@ More projects and practice programs will be added as I continue learning.
 
 ## 🚀 My Progress
 
-I'm learning Python step by step through practice programs, assignments, and small projects. This repository will grow along with my skills.
+I'm learning Python by practicing regularly, solving programming problems, and building small projects. This repository is a record of my progress and the things I learn along the way.
 
-Thanks for visiting my repository! Feel free to explore my projects and follow my Python learning journey. 🚀
+I'll keep updating it as I learn new concepts and build more projects.
+
+Thanks for visiting my repository!
