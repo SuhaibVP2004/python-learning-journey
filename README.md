@@ -4,11 +4,11 @@ Hi, I'm Suhaib! 👋
 
 Welcome to my Python Learning Journey.
 
-This repository is where I keep my Python practice, assignments, and small projects as I learn and improve step by step. I'm using it to build a strong foundation in programming and work towards becoming a Python Full Stack Developer.
+This repository contains my Python practice programs, assignments, and mini-projects as I learn and improve step by step. I'm using this repository to strengthen my programming fundamentals, improve my problem-solving skills, and build practical projects.
 
 ## 🎯 My Goal
 
-My goal is to become a Python Full Stack Developer by strengthening my Python fundamentals, improving my problem-solving skills, and building practical projects along the way.
+My goal is to become a Python Full Stack Developer by building a strong foundation in Python, improving my problem-solving skills, and developing practical applications.
 
 ## 📚 What I'm Learning
 
@@ -19,6 +19,10 @@ My goal is to become a Python Full Stack Developer by strengthening my Python fu
 - Conditional Statements
 - Loops
 - Strings
+- Lists
+- Tuples
+- Sets
+- Dictionaries
 - Functions
 - Object-Oriented Programming (OOP)
 - File Handling
@@ -29,17 +33,17 @@ My goal is to become a Python Full Stack Developer by strengthening my Python fu
 
 ## 📁 Projects
 
-### Day 1 — Student Information System
-A simple program that takes student details and marks as input and calculates the total and average marks.
+### 1. Student Information System
+A simple Python program that takes student details and marks as input and calculates the total and average marks.
 
-### Day 2 — Student Result Management System
-A basic student result management program that works with marks and calculates student results.
+### 2. Student Result Management System
+A menu-driven Python application for managing student results. It allows users to add, view, search, and delete student records while calculating total marks, average marks, and grades.
 
-### Day 3 — Text Analyzer
-A program that analyzes text by counting characters, letters, digits, spaces, vowels, consonants, uppercase and lowercase letters, and also reverses the entered text.
+### 3. Text Analyzer
+A Python program that analyzes text by counting characters, letters, digits, spaces, vowels, consonants, uppercase and lowercase letters, and also reverses the entered text.
 
-### Day 4 — Number Analyzer
-A program that analyzes a number and provides information such as:
+### 4. Number Analyzer
+A Python program that analyzes a number and provides information such as:
 
 - Number of digits
 - Sum of digits
@@ -58,10 +62,22 @@ More projects and practice programs will be added as I continue learning.
 - Git
 - GitHub
 
-## 🚀 My Progress
+## 🚀 Current Focus
 
-I'm learning Python by practicing regularly, solving programming problems, and building small projects. This repository is a record of my progress and the things I learn along the way.
+Currently focusing on:
 
-I'll keep updating it as I learn new concepts and build more projects.
+- Python fundamentals
+- Data structures
+- Problem solving
+- Building Python mini-projects
+- Preparing for Python Full Stack development
 
-Thanks for visiting my repository!
+## 📈 My Progress
+
+I'm learning Python through regular practice, programming exercises, and hands-on projects.
+
+This repository serves as a record of my learning journey, projects, and progress.
+
+I'll continue updating it as I learn new concepts and build more projects.
+
+Thanks for visiting my repository! ⭐
